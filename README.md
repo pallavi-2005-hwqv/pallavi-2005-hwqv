@@ -9,7 +9,4 @@ Hi! I’m a B.Tech Information Technology student who enjoys learning new techno
 ![](https://streak-stats.demolab.com/?user=pallavi-2005-hwqv&theme=rose_pine&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=pallavi-2005-hwqv&theme=rose_pine&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
